@@ -1,7 +1,7 @@
 import React from 'react';
 // import logo from './logo.svg';
 // import './App.css';
-import {BrowserRouter as Router,Route,Swich, Switch} from 'react-router-dom';
+import {BrowserRouter as Router,Route, Switch} from 'react-router-dom';
 import Home from './pages/Home';
 import About from './pages/About';
 import SingleCocktail from './pages/SingleCocktail';
